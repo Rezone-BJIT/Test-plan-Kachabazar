@@ -1,2 +1,2 @@
 # Test-plan-Kachabazar
-Here is the test plan of Kachabazar e-commerce software.1
+Here is the test plan of TAKA which is a mobile financial service
